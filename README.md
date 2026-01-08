@@ -12,6 +12,7 @@ L'application est structurée autour d'un parcours utilisateur simple et logique
 3.  **Écran du Menu Principal (`MainActivity`)** : Après avoir cliqué sur "Voir le Menu", l'utilisateur accède à une grille visuelle (`GridView`) présentant tous les plats avec leur photo, nom, et prix.
 4.  **Écran de Détail (`DetailActivity`)** : En cliquant sur un plat spécifique depuis le menu, une nouvelle page s'ouvre pour afficher en grand l'image du plat, sa description complète et son prix.
 
+![Login](WhatsApp Image 2026-01-08 at 23.06.26.jpeg)
 ## 3. Outils et Concepts Android Utilisés
 
 Ce projet met en œuvre plusieurs composants fondamentaux du développement Android :
@@ -39,6 +40,7 @@ Ce projet met en œuvre plusieurs composants fondamentaux du développement Andr
     *   **`layout`** : Contient tous les fichiers XML qui définissent la structure visuelle des activités.
     *   **`values/colors.xml`** : Utilisé pour centraliser les codes de couleur de l'application.
     *   **`AndroidManifest.xml`** : Le fichier "cœur" de l'application, qui déclare toutes les activités et définit l'activité de démarrage. Sa bonne configuration a été essentielle pour corriger les plantages.
+
 
 ## 4. Conclusion
 
