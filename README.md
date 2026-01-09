@@ -11,7 +11,7 @@ L'application est structurée autour d'un parcours utilisateur simple et logique
 2.  **Écran de Filtre (`SpinnerActivity`)** : L'utilisateur est ensuite dirigé vers une page où il peut sélectionner une catégorie de plat (Entrées, Plats principaux, etc.) via un menu déroulant.
 3.  **Écran du Menu Principal (`MainActivity`)** : Après avoir cliqué sur "Voir le Menu", l'utilisateur accède à une grille visuelle (`GridView`) présentant tous les plats avec leur photo, nom, et prix.
 4.  **Écran de Détail (`DetailActivity`)** : En cliquant sur un plat spécifique depuis le menu, une nouvelle page s'ouvre pour afficher en grand l'image du plat, sa description complète et son prix.
-![Login](images/Interface_d'accueil.png)
+![Login](Interface_d'accueil.png)
 
 <div align="center">
   <img src="Interface_d'accueil.png" alt="Login" width="500px"/>
