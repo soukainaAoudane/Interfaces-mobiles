@@ -8,10 +8,11 @@ L'application a pour but de présenter le menu d'un restaurant de manière inter
 
 L'application est structurée autour d'un parcours utilisateur simple et logique en plusieurs étapes :
 1.  **Écran d'Accueil (`Login`)** : Une page de bienvenue esthétique avec l'identité du restaurant (logo, image de fond), invitant l'utilisateur à entrer.
-2.  **Écran de Filtre (`SpinnerActivity`)** : L'utilisateur est ensuite dirigé vers une page où il peut sélectionner une catégorie de plat (Entrées, Plats principaux, etc.) via un menu déroulant.
-3.  **Écran du Menu Principal (`MainActivity`)** : Après avoir cliqué sur "Voir le Menu", l'utilisateur accède à une grille visuelle (`GridView`) présentant tous les plats avec leur photo, nom, et prix.
-4.  **Écran de Détail (`DetailActivity`)** : En cliquant sur un plat spécifique depuis le menu, une nouvelle page s'ouvre pour afficher en grand l'image du plat, sa description complète et son prix.
-<img src="Interface_d'accueil" width="500" height="500" alt="Login" />
+   <img src="Interface_d'accueil" width="500" height="500" alt="Login" align="center" />
+
+3.  **Écran de Filtre (`SpinnerActivity`)** : L'utilisateur est ensuite dirigé vers une page où il peut sélectionner une catégorie de plat (Entrées, Plats principaux, etc.) via un menu déroulant.
+4.  **Écran du Menu Principal (`MainActivity`)** : Après avoir cliqué sur "Voir le Menu", l'utilisateur accède à une grille visuelle (`GridView`) présentant tous les plats avec leur photo, nom, et prix.
+5.  **Écran de Détail (`DetailActivity`)** : En cliquant sur un plat spécifique depuis le menu, une nouvelle page s'ouvre pour afficher en grand l'image du plat, sa description complète et son prix.
 
 
 
