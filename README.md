@@ -13,9 +13,7 @@ L'application est structurée autour d'un parcours utilisateur simple et logique
 4.  **Écran de Détail (`DetailActivity`)** : En cliquant sur un plat spécifique depuis le menu, une nouvelle page s'ouvre pour afficher en grand l'image du plat, sa description complète et son prix.
 ![Login](Interface_d'accueil.png)
 
-<div align="center">
-  <img src="Interface_d'accueil.png" alt="Login" width="500px"/>
-</div>
+
 
 ## 3. Outils et Concepts Android Utilisés
 
